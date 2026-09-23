@@ -1,5 +1,7 @@
 # Florida Save Our Homes Benefit by County (2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22925655.svg)](https://doi.org/10.5281/zenodo.22925655)
+
 A county-by-county dataset of the Florida Save Our Homes (SOH) assessment differential, which is how far capped homestead assessments sit below market ("just") value, what that is worth in property tax per average homestead per year, and what a move costs an owner who cannot port it. Built from Florida Department of Revenue (DOR) primary files.
 
 Compiled by [Kevin D. Klagge, Esq.](https://stepuplaw.com/about), a Florida estate planning and probate attorney (Klagge Law, PLLC). Built on September 23, 2026.
