@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Florida Save Our Homes Benefit by County (2026)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - family-names: Klagge
+    given-names: Kevin D.
+    affiliation: "Klagge Law, PLLC (StepUpLaw)"
+    orcid: "https://orcid.org/0009-0002-1385-8498"
+version: "2026.09.23"
+date-released: "2026-09-23"
+license: CC-BY-4.0
+url: "https://stepuplaw.com/data/florida-save-our-homes-by-county/"
+repository-code: "https://github.com/stepuplaw/florida-save-our-homes-by-county"
+abstract: "For each of Florida's 67 counties, the Save Our Homes assessment differential (how far capped homestead assessments sit below market value) for the 2022 to 2026 tax rolls, and for 2026 the number of homesteads, the average and median differential per homestead, an estimate of the property tax the cap saves the average homestead each year, and the number of homesteads whose differential exceeds the $500,000 portability limit. Built from Florida Department of Revenue Data Book workbooks and the parcel-level 2026 NAL roll files. The county totals sum exactly to the statewide $815,135,591,712 on DOR's 2026 preliminary DR-489V recapitulation."
+keywords:
+  - Save Our Homes
+  - homestead exemption
+  - property tax
+  - portability
+  - assessment cap
+  - Florida
+  - county data
+  - estate planning

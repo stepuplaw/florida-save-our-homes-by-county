@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+progress.log
+# The 67 county NAL roll files (~825 MB) are listed in data/sources/manifest.csv, not committed.
+data/sources/nal_2026/raw/
+*.part

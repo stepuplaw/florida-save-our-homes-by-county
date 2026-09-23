@@ -1,0 +1,231 @@
+{
+  "title": "Florida Save Our Homes Benefit by County (2026)",
+  "subtitle": "Homestead assessment cap differential and tax saved, all 67 Florida counties",
+  "id": "stepuplaw/florida-save-our-homes-by-county",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "government",
+    "tax",
+    "real estate",
+    "united states"
+  ],
+  "description": "For each of Florida's 67 counties, this dataset measures the Save Our Homes assessment differential, which is how far capped homestead assessments sit below market (just) value, for the 2022 to 2026 tax rolls.\n\nFor the 2026 preliminary roll it adds the number of homesteads, the average and median differential per homestead, an estimate of the property tax the cap saves each year, and the count of homesteads whose differential exceeds the $500,000 portability limit. The statewide differential is $815.1 billion on the 2026 roll, down from $929.1 billion in 2024. The average Miami-Dade homestead saves an estimated $5,436 a year.\n\nThe tax figures are estimates, computed as the average differential times the county's 2025 Total Millage Rate divided by 1,000. Millage varies within a county. Column definitions are in schema.json.\n\nSources: Florida Department of Revenue, Property Tax Oversight, Data Book workbooks and the 2026 NAL roll files. The GitHub repository has the saved Data Book files, the build scripts and a manifest of every raw roll file with its URL and SHA-256.\n\nCanonical page and citation: https://stepuplaw.com/data/florida-save-our-homes-by-county/\nSource repository: https://github.com/stepuplaw/florida-save-our-homes-by-county\nAuthor: Kevin D. Klagge, Klagge Law, PLLC, ORCID https://orcid.org/0009-0002-1385-8498\n\nThis is reference data, not legal or tax advice.",
+  "resources": [
+    {
+      "path": "counties.csv",
+      "description": "67 counties x roll years 2022 to 2026 (335 rows)",
+      "schema": {
+        "fields": [
+          {
+            "name": "county",
+            "description": "County name as DOR spells it (Miami-Dade, Saint Johns, Saint Lucie, DeSoto)",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "description": "Tax roll year (assessment date January 1 of that year). 2026 is the preliminary roll",
+            "type": "integer"
+          },
+          {
+            "name": "homestead_parcels",
+            "description": "Parcels with NAL field JV_HMSTD (Just Value, Homestead Property) greater than 0. 2026 only",
+            "type": "integer"
+          },
+          {
+            "name": "homestead_just_value_total",
+            "description": "Sum of JV_HMSTD over those parcels, in dollars. 2026 only",
+            "type": "integer"
+          },
+          {
+            "name": "homestead_assessed_value_total",
+            "description": "Sum of AV_HMSTD (Assessed Value, Homestead Property) before exemptions, in dollars. 2026 only",
+            "type": "integer"
+          },
+          {
+            "name": "soh_differential_total",
+            "description": "County Save Our Homes differential (homestead just value minus capped assessed value) as DOR reports it in the Data Book, county_overview.xlsx, sheet Save Our Homes Value History",
+            "type": "integer"
+          },
+          {
+            "name": "avg_soh_differential_per_homestead",
+            "description": "(homestead_just_value_total minus homestead_assessed_value_total) divided by homestead_parcels, all from the NAL. 2026 only",
+            "type": "integer"
+          },
+          {
+            "name": "avg_total_millage",
+            "description": "DOR Total Millage Rate for the county (county-wide plus less-than-county-wide levies averaged over the county), from millage_taxes_levied.xlsx. 2022 to 2025",
+            "type": "number"
+          },
+          {
+            "name": "est_avg_annual_tax_saved",
+            "description": "ESTIMATE. avg_soh_differential_per_homestead x the county's 2025 Total Millage Rate / 1000, in dollars a year. 2026 only",
+            "type": "integer"
+          },
+          {
+            "name": "source",
+            "description": "Table, sheet and column for every figure in the row",
+            "type": "string"
+          },
+          {
+            "name": "source_url",
+            "description": "DOR file URLs, separated by ' | '",
+            "type": "string"
+          },
+          {
+            "name": "note",
+            "description": "Roll status, what is blank and why, and the NAL versus Data Book gap for 2026",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "distribution_2026.csv",
+      "description": "2026 parcel-level distribution of the differential per county, from the DOR NAL roll",
+      "schema": {
+        "fields": [
+          {
+            "name": "county",
+            "description": "County name as DOR spells it",
+            "type": "string"
+          },
+          {
+            "name": "nal_file",
+            "description": "The DOR NAL roll file read",
+            "type": "string"
+          },
+          {
+            "name": "roll",
+            "description": "Preliminary or Final (Final for Citrus only)",
+            "type": "string"
+          },
+          {
+            "name": "homestead_parcels",
+            "description": "Parcels with JV_HMSTD greater than 0",
+            "type": "integer"
+          },
+          {
+            "name": "median_soh_differential",
+            "description": "Median of JV_HMSTD minus AV_HMSTD over homestead parcels",
+            "type": "number"
+          },
+          {
+            "name": "p25_soh_differential",
+            "description": "25th percentile of the differential",
+            "type": "number"
+          },
+          {
+            "name": "p75_soh_differential",
+            "description": "75th percentile of the differential",
+            "type": "number"
+          },
+          {
+            "name": "p90_soh_differential",
+            "description": "90th percentile of the differential",
+            "type": "number"
+          },
+          {
+            "name": "p99_soh_differential",
+            "description": "99th percentile of the differential",
+            "type": "number"
+          },
+          {
+            "name": "max_soh_differential",
+            "description": "Largest single-parcel differential, as recorded on the roll",
+            "type": "number"
+          },
+          {
+            "name": "share_with_zero_differential",
+            "description": "Share of homestead parcels whose differential is zero or less",
+            "type": "number"
+          },
+          {
+            "name": "parcels_differential_over_500k",
+            "description": "Homestead parcels whose differential exceeds the $500,000 portability limit",
+            "type": "integer"
+          },
+          {
+            "name": "share_over_500k",
+            "description": "parcels_differential_over_500k divided by homestead_parcels",
+            "type": "number"
+          },
+          {
+            "name": "differential_above_500k_total",
+            "description": "Sum over those parcels of the differential above $500,000, the part portability cannot carry",
+            "type": "integer"
+          },
+          {
+            "name": "median_homestead_just_value",
+            "description": "Median JV_HMSTD",
+            "type": "number"
+          },
+          {
+            "name": "median_homestead_assessed_value",
+            "description": "Median AV_HMSTD",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "portability_by_county.csv",
+      "description": "DOR-reported portability transfers and value ported, by county, 2022 to 2026",
+      "schema": {
+        "fields": [
+          {
+            "name": "county",
+            "description": "County name as DOR spells it",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "description": "Tax roll year",
+            "type": "integer"
+          },
+          {
+            "name": "portability_transfers",
+            "description": "Number of portability transfers DOR reports",
+            "type": "integer"
+          },
+          {
+            "name": "portability_value_total",
+            "description": "Total differential ported, in dollars",
+            "type": "integer"
+          },
+          {
+            "name": "avg_value_ported_per_transfer",
+            "description": "portability_value_total divided by portability_transfers (computed)",
+            "type": "integer"
+          },
+          {
+            "name": "source",
+            "description": "Table and sheets",
+            "type": "string"
+          },
+          {
+            "name": "source_url",
+            "description": "DOR file URL",
+            "type": "string"
+          },
+          {
+            "name": "note",
+            "description": "Method notes",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "counties.json",
+      "description": "The same 335 rows as counties.csv, as a JSON array"
+    },
+    {
+      "path": "schema.json",
+      "description": "Data dictionary for the three CSV files"
+    }
+  ]
+}

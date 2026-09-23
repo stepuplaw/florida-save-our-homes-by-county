@@ -1,0 +1,21 @@
+{
+  "title": "Florida Save Our Homes Benefit by County (2026)",
+  "upload_type": "dataset",
+  "description": "For each of Florida's 67 counties, the Save Our Homes assessment differential for the 2022 to 2026 tax rolls: how far capped homestead assessments sit below market (just) value. For the 2026 preliminary roll it adds the number of homesteads, the average and median differential per homestead, an estimate of the property tax the cap saves each year (differential times the county's 2025 total millage), and the count of homesteads whose differential exceeds the $500,000 portability limit. On the 2026 roll the statewide differential is $815.1 billion across 5,251,737 homesteads, down from a peak of $929.1 billion in 2024. The average Miami-Dade homestead saves an estimated $5,436 a year. 187,319 homesteads carry $122.7 billion of differential above the portability limit. Built from Florida Department of Revenue Data Book workbooks and the parcel-level NAL roll files; a manifest lists every source file with its URL and SHA-256. Compiled 2026-09-23.",
+  "creators": [
+    {
+      "name": "Klagge, Kevin D.",
+      "affiliation": "Klagge Law, PLLC (StepUpLaw)",
+      "orcid": "0009-0002-1385-8498"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "2026.09.23",
+  "keywords": ["Save Our Homes", "homestead exemption", "property tax", "portability", "assessment cap", "Florida", "county data", "open data", "2026"],
+  "related_identifiers": [
+    {"identifier": "https://stepuplaw.com/data/florida-save-our-homes-by-county/", "relation": "isDocumentedBy", "scheme": "url"},
+    {"identifier": "https://github.com/stepuplaw/florida-save-our-homes-by-county", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

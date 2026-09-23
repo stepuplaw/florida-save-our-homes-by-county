@@ -1,0 +1,929 @@
+{
+ "databook_2021/amendment_1_impact.xlsx": {
+  "bytes": 257901,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:29",
+  "sha256": "de02e51dadce4e78e9df61e681a7c5197f1220d1d48613da2c0d0678649d16b0",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/amendment_1_impact.xlsx"
+ },
+ "databook_2021/assessed_value.xlsx": {
+  "bytes": 65537,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:33",
+  "sha256": "53d35e25b115b43dc23d360915f1615d7965b7a685d363629992964275c3b961",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/assessed_value.xlsx"
+ },
+ "databook_2021/county_overview.xlsx": {
+  "bytes": 108474,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:18",
+  "sha256": "cad0ea2538d9393595368d63e78719bac244909bf676dab512380780eec37565",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/county_overview.xlsx"
+ },
+ "databook_2021/exemption_values.xlsx": {
+  "bytes": 85215,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:21",
+  "sha256": "8756f9aeb9281968f17bceb15e586b75aaa2dd7524bba3d50651111d9535e43e",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/exemption_values.xlsx"
+ },
+ "databook_2021/jat.pdf": {
+  "bytes": 256726,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:31",
+  "sha256": "de8c35a21d5b0cfbc839b07d74a98e1e6d565e31711ec065b037b9d6c79502e0",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/jat.pdf"
+ },
+ "databook_2021/just_value.xlsx": {
+  "bytes": 63062,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:34",
+  "sha256": "c094ba3d2ace1db05666fb27d98a44941a872ed35f8aabe13e474a882daed5a9",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/just_value.xlsx"
+ },
+ "databook_2021/millage_taxes_levied.xlsx": {
+  "bytes": 53785,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:19",
+  "sha256": "7af9ddb87394d6aa79a2b5ea74bed0cda8b6e4a7d7c7d56fa8ea076cfe7a88dc",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/millage_taxes_levied.xlsx"
+ },
+ "databook_2021/parcel_count.xlsx": {
+  "bytes": 72263,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:24",
+  "sha256": "bee0da0dfb3baf7ce41833e7a7b7c09a1511cb51df45f2b9ed80411b3c3a97d1",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/parcel_count.xlsx"
+ },
+ "databook_2021/statewide_recap.xlsx": {
+  "bytes": 26490,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:22",
+  "sha256": "78d902a732e4aa3980d3912da213b79dd09f6010df14ec1ce76424222a9d5fc2",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2021DataBookFiles/statewide_recap.xlsx"
+ },
+ "databook_2022/amendment_1_impact.xlsx": {
+  "bytes": 5822983,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:07",
+  "sha256": "a2f48bf5e4526fc048c83b915b67bed2414cafe18788fc2f8fbc92deaa80a50c",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/amendment_1_impact.xlsx"
+ },
+ "databook_2022/assessed_value.xlsx": {
+  "bytes": 68502,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:11",
+  "sha256": "365b4d5e1e02e3169f06938ca1d657cb436e40e592aa546fab89f6642d424cc8",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/assessed_value.xlsx"
+ },
+ "databook_2022/county_overview.xlsx": {
+  "bytes": 114143,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:36",
+  "sha256": "00496a41a0623e39ca700d2844eec97b2c371fe21fab8e1ec4776f580e52e444",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/county_overview.xlsx"
+ },
+ "databook_2022/exemption_values.xlsx": {
+  "bytes": 86792,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:40",
+  "sha256": "73195a49ca3d3a703e8ed6d659b5bea507914f789e10068f70b017c797c215b7",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/exemption_values.xlsx"
+ },
+ "databook_2022/jat.pdf": {
+  "bytes": 127457,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:10",
+  "sha256": "88f19c4cb5890c11b6fd77798ee4d2db3d3d6eb87b5051b245a6a12ff9b41ec3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/jat.pdf"
+ },
+ "databook_2022/just_value.xlsx": {
+  "bytes": 66947,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:13",
+  "sha256": "5a11174c45edd787149a083027b4c6d5e9afedac461d92853359df795e73c3c8",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/just_value.xlsx"
+ },
+ "databook_2022/millage_taxes_levied.xlsx": {
+  "bytes": 54676,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:38",
+  "sha256": "3a3d1110f0d7322567bc31fd1e93b49656550235367c0dc71f2fe9c67114df41",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/millage_taxes_levied.xlsx"
+ },
+ "databook_2022/parcel_count.xlsx": {
+  "bytes": 74858,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:43",
+  "sha256": "f3814b63fca06ca5e21948e22083445c0ee8607748569e8daf37d224a8327753",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/parcel_count.xlsx"
+ },
+ "databook_2022/statewide_recap.xlsx": {
+  "bytes": 30273,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:49:42",
+  "sha256": "c26e75e5f47fdf809614a3661106c59c870dae37605c76e187cbc48096aae976",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2022DataBookFiles/statewide_recap.xlsx"
+ },
+ "databook_2023/amendment_1_impact.xlsx": {
+  "bytes": 5844335,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:45",
+  "sha256": "f76fa206c1a55f6114e9b2da311c271f3aaa7151582b85a461309430f2676b41",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/amendment_1_impact.xlsx"
+ },
+ "databook_2023/assessed_value.xlsx": {
+  "bytes": 68550,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:49",
+  "sha256": "eb7f3624c2ec4af1b5842a4148911572630e3f0bc77f45c17eb685cf7923adab",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/assessed_value.xlsx"
+ },
+ "databook_2023/county_overview.xlsx": {
+  "bytes": 116240,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:17",
+  "sha256": "d632ab9bb5d0ce6894c3738239b3d63a8e78d0152ab7461a5b779fb3703249ae",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/county_overview.xlsx"
+ },
+ "databook_2023/exemption_values.xlsx": {
+  "bytes": 86561,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:20",
+  "sha256": "9b0f2f32448b58911d59d01d3cf5277dfa683312f2ef495bb187f6e55d93396e",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/exemption_values.xlsx"
+ },
+ "databook_2023/jat.pdf": {
+  "bytes": 130603,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:47",
+  "sha256": "cbdc56f46820398fc24c96d4076793bf950b44477045fece80144db5e969ce15",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/jat.pdf"
+ },
+ "databook_2023/just_value.xlsx": {
+  "bytes": 66684,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:50",
+  "sha256": "39a31d3d39e89d7efff55cdfefeda744489d90428e4cad293e25ef48a47da1d2",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/just_value.xlsx"
+ },
+ "databook_2023/millage_taxes_levied.xlsx": {
+  "bytes": 53156,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:18",
+  "sha256": "43154b1bf65197fa85f395946f5b390c8f39f3c470aaa0067be0ce4d43769255",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/millage_taxes_levied.xlsx"
+ },
+ "databook_2023/parcel_count.xlsx": {
+  "bytes": 74109,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:23",
+  "sha256": "fab60cbdbfc1251d54a91e1d3fb51c2b6e77fe56eb9a1676e338a604f7eac6c2",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/parcel_count.xlsx"
+ },
+ "databook_2023/statewide_recap.xlsx": {
+  "bytes": 30257,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:50:22",
+  "sha256": "d3470a44742210b00f6a93c415cba60e9f205f992044d0f06d03c6de795c6cc3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2023DataBookFiles/statewide_recap.xlsx"
+ },
+ "databook_2024/amendment_1_impact.xlsx": {
+  "bytes": 5855527,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:55",
+  "sha256": "3e035e8ab8623c3fae034d1eb32c76f7eb7f31f75862847b04073fad818d24e7",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/amendment_1_impact.xlsx"
+ },
+ "databook_2024/assessed_value.xlsx": {
+  "bytes": 58958,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:59",
+  "sha256": "a3ddb431981ad18b7476df428cffb6b43cd0673320af52d85d6fce9043e9f5ff",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/assessed_value.xlsx"
+ },
+ "databook_2024/county_overview.xlsx": {
+  "bytes": 113528,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:00",
+  "sha256": "cb4f3879c3cafdb0ee0cbcb01a402a4d08e22e9a7004aa4476afb740be03ad08",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/county_overview.xlsx"
+ },
+ "databook_2024/exemption_values.xlsx": {
+  "bytes": 79412,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:03",
+  "sha256": "e483b55a56d2faa96521211f5549555c004ed981dee8492417d8a725569fa7c5",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/exemption_values.xlsx"
+ },
+ "databook_2024/jat.pdf": {
+  "bytes": 131677,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:57",
+  "sha256": "79d468b540083e84bbff891b2158965b33eb6ebcb43b6ba342a8c1e9bcae2830",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/jat.pdf"
+ },
+ "databook_2024/just_value.xlsx": {
+  "bytes": 60576,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:52:01",
+  "sha256": "dd7d6f7e0dd9448d562e96c56b1ef2e413c5526b49c07d98790e40d7edb58439",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/just_value.xlsx"
+ },
+ "databook_2024/millage_taxes_levied.xlsx": {
+  "bytes": 52567,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:02",
+  "sha256": "4a43b70c65a3e15dbdd0fe492ffa26718da091f9dac610591fc8ca5d4968a769",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/millage_taxes_levied.xlsx"
+ },
+ "databook_2024/parcel_count.xlsx": {
+  "bytes": 68850,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:06",
+  "sha256": "403ca8c660e13eee46fbbe5a28ff1d27de97bbc4d378dadde407712a5c8111da",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/parcel_count.xlsx"
+ },
+ "databook_2024/statewide_recap.xlsx": {
+  "bytes": 24952,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:51:04",
+  "sha256": "75d000169165a5b308cbcd73520562f0cde7c9b445bd5d88947eb6ae9e00cdb3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2024DataBookFiles/statewide_recap.xlsx"
+ },
+ "databook_2025/amendment_1_impact.xlsx": {
+  "bytes": 5870370,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:53:21",
+  "sha256": "f2689c00d10d5470755ccd9b73c1e94174116386e0a067c26c55dfcbb3237622",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/amendment_1_impact.xlsx"
+ },
+ "databook_2025/assessed_value.xlsx": {
+  "bytes": 59077,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:53:25",
+  "sha256": "c7e59b700878dadcf90d149b023b6f96b7284c9783601b998d2ba886150a9997",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/assessed_value.xlsx"
+ },
+ "databook_2025/county_overview.xlsx": {
+  "bytes": 116347,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:52:02",
+  "sha256": "f152e73f588e9cda023d2a2b4e091087e93a28a8ffec1f66eb3eb2170003ce69",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/county_overview.xlsx"
+ },
+ "databook_2025/exemption_values.xlsx": {
+  "bytes": 79472,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:52:05",
+  "sha256": "4250e2d903f5b64f00a178e5a93b4262613dcc66fddea51a4e2ff5e53769ec19",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/exemption_values.xlsx"
+ },
+ "databook_2025/jat.pdf": {
+  "bytes": 133520,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:53:24",
+  "sha256": "8a7c0aeb174f0a1b623e3ec8625df952a351c4df97b4ae1e577a6eab6ebbccc3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/jat.pdf"
+ },
+ "databook_2025/just_value.xlsx": {
+  "bytes": 60633,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:53:27",
+  "sha256": "8f985436d552a40198538235085014c0866deb80d71e12d0b73472e19bd9c40a",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/just_value.xlsx"
+ },
+ "databook_2025/millage_taxes_levied.xlsx": {
+  "bytes": 53016,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:52:04",
+  "sha256": "c5d64f896e613e1e750b3188133a63cafdb1ff73dd6332f07db4579f2032a0bf",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/millage_taxes_levied.xlsx"
+ },
+ "databook_2025/parcel_count.xlsx": {
+  "bytes": 68396,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:52:29",
+  "sha256": "427f9bd55486c3ed24599ce9ec4771986fe0c876205b217b965f07d51d88098a",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/parcel_count.xlsx"
+ },
+ "databook_2025/statewide_recap.xlsx": {
+  "bytes": 25073,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:52:26",
+  "sha256": "24377b12af87db9d646ac476ef92eeafea686aeb562c555e030905058028d4e2",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Databook%20Historical%20Data/2025DataBookFiles/statewide_recap.xlsx"
+ },
+ "databook_current/SaveOurHomes.pdf": {
+  "bytes": 121295,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:59",
+  "sha256": "f139676c50876b05b1693581bd4480b1efd246371d1a5dc984ab930b4ab02a64",
+  "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
+ },
+ "databook_current/amendment_1_impact.xlsx": {
+  "bytes": 5898203,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:50",
+  "sha256": "9e94e68dce857a6edfa3b46bd9ccfd452caa58f22b8658232a673d62badc59b4",
+  "url": "https://floridarevenue.com/property/Documents/amendment_1_impact.xlsx"
+ },
+ "databook_current/assessed_value.xlsx": {
+  "bytes": 63663,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:07",
+  "sha256": "c459ba3ae66764f7553d1b856eaa7efc462bb35edfe0a04c29dfa00e296f98b1",
+  "url": "https://floridarevenue.com/property/Documents/assessed_value.xlsx"
+ },
+ "databook_current/county_overview.xlsx": {
+  "bytes": 124592,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:54",
+  "sha256": "e7a86a5a3ffec83a267f4d57846828deb57556174122e40743e2aabbb430b224",
+  "url": "https://floridarevenue.com/property/Documents/county_overview.xlsx"
+ },
+ "databook_current/exemption_values.xlsx": {
+  "bytes": 85495,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:08",
+  "sha256": "25de74c985642bd7004f0cf36f2b4b4b53d61bff0ba173a256baaa83e24f1d03",
+  "url": "https://floridarevenue.com/property/Documents/exemption_values.xlsx"
+ },
+ "databook_current/jat.pdf": {
+  "bytes": 316353,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:57",
+  "sha256": "39968981c3525dfe1325107e16a96c2322940b5579aa6d7cded91babfc59f332",
+  "url": "https://floridarevenue.com/property/Documents/jat.pdf"
+ },
+ "databook_current/just_value.xlsx": {
+  "bytes": 65948,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:05",
+  "sha256": "c5d420e8119f10fe450776f6b82da89d35379f4b2444735acb8bd7575d9f094e",
+  "url": "https://floridarevenue.com/property/Documents/just_value.xlsx"
+ },
+ "databook_current/method.pdf": {
+  "bytes": 35867,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:47:00",
+  "sha256": "4b08f76d31b775a7f26a8af2bf852a8a442bac835e3acc016769d40b93e46330",
+  "url": "https://floridarevenue.com/property/Documents/method.pdf"
+ },
+ "databook_current/millage_taxes_levied.xlsx": {
+  "bytes": 54709,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:13",
+  "sha256": "af531b32f72a3f1fb04b6e484abddae5b312b9b2e7de22818349da7d33dc8e80",
+  "url": "https://floridarevenue.com/property/Documents/millage_taxes_levied.xlsx"
+ },
+ "databook_current/parcel_count.xlsx": {
+  "bytes": 76493,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:12",
+  "sha256": "588008e7e3647b48fb82394deb2c1352e785c6987ec734e13f56f0c9c9e9cfd7",
+  "url": "https://floridarevenue.com/property/Documents/parcel_count.xlsx"
+ },
+ "databook_current/statewide_recap.xlsx": {
+  "bytes": 32083,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:52",
+  "sha256": "98ba857c9e0385cb943f9f8a87b18d422e11c6a6570a8ab98213b449ea8b76ed",
+  "url": "https://floridarevenue.com/property/Documents/statewide_recap.xlsx"
+ },
+ "databook_current/taxable_value.xlsx": {
+  "bytes": 65491,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:46:10",
+  "sha256": "430865c51f875adb6fc4634794abfb1aef601904321ccbd1a5d3625eae5232a5",
+  "url": "https://floridarevenue.com/property/Documents/taxable_value.xlsx"
+ },
+ "extracted/databook_extract.csv": {
+  "bytes": 32121,
+  "in_repository": true,
+  "note": "built by tools/extract_databook.py from the Data Book workbooks",
+  "retrieved": "",
+  "sha256": "a70567601b9b8882e94f3a688550ac68f7117b7c4f804209ab01d41c7c147363",
+  "url": ""
+ },
+ "law/0193.155.html": {
+  "bytes": 57013,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:56:14",
+  "sha256": "7641162f4bf2173c0167f8e974134b4e9cedd02a73f068d3a3c25211797682cf",
+  "url": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0193/Sections/0193.155.html"
+ },
+ "law/0193.155.txt": {
+  "bytes": 30029,
+  "in_repository": true,
+  "note": "text extracted from law/0193.155.html by tools/html2txt.py",
+  "retrieved": "",
+  "sha256": "046596340664510318c053dd65de354fb9ca48740a37870bdcae90668f2dfb27",
+  "url": ""
+ },
+ "law/193.155-2025.html": {
+  "bytes": 80053,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:57:28",
+  "sha256": "e31a06e1b8d8ba1217fbea2e8bf98dca4223723f9fe656e7448e2aa6fc4ae01d",
+  "url": "https://www.flsenate.gov/Laws/Statutes/2025/193.155"
+ },
+ "law/fl_constitution.html": {
+  "bytes": 622854,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:56:30",
+  "sha256": "8d9b6a5e442e4038b532ffb93d148b0438d678f3e6fc94af393bb1421bc6ca18",
+  "url": "https://www.flsenate.gov/Laws/Constitution"
+ },
+ "nal_2026/2026_NAL_SDF_NAP_Users_Guide.pdf": {
+  "bytes": 283728,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:55:33",
+  "sha256": "b0fdce41b212324c5c3c430c4c75e21d77ed4003cd42ecc343ce4c27ec0359c4",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/User%20Guides/2026%20Users%20guide%20and%20quick%20reference/2026_NAL_SDF_NAP_Users_Guide.pdf"
+ },
+ "nal_2026/2026_Users_Guide_Quick_Reference.xlsx": {
+  "bytes": 62314,
+  "in_repository": true,
+  "retrieved": "2026-09-23T20:55:30",
+  "sha256": "362506427be01f94e1af8133ec8a3ae99f3bb5a3955fa536f2d882815b4f285c",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/User%20Guides/2026%20Users%20guide%20and%20quick%20reference/2026_Users_Guide_Quick_Reference.xlsx"
+ },
+ "nal_2026/nal_2026_homestead_summary.csv": {
+  "bytes": 19570,
+  "in_repository": true,
+  "note": "built by tools/nal_summarize.py from the NAL roll files",
+  "retrieved": "",
+  "sha256": "840315434f57336255af5fcc06b6d95a1500587067e20dd734b8f9ae621ab96a",
+  "url": ""
+ },
+ "nal_2026/raw/Alachua 11 Preliminary NAL 2026.zip": {
+  "bytes": 8621291,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:38",
+  "sha256": "ae5a7165e55fe0c05ed029f51fea94731f188324831f8f92b8a72ccc8084990e",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Alachua%2011%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Baker 12 Preliminary NAL 2026.zip": {
+  "bytes": 1080740,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:14",
+  "sha256": "cd6a1b9d98930110098a1bd1692cda9d66802ef591061288bac522778688a133",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Baker%2012%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Bay 13 Preliminary NAL 2026.zip": {
+  "bytes": 9416854,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:02:35",
+  "sha256": "fe35c44a2238dcb88e8e40a2249ad1f4d2330533cea0157073022ce1db3a089e",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Bay%2013%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Bradford 14 Preliminary NAL 2026.zip": {
+  "bytes": 1228672,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:26",
+  "sha256": "82f3eaed6d75434d6d207af106ca5db9f218724a3ff2bedf4f5e15a068cd8b51",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Bradford%2014%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Brevard 15 Preliminary NAL 2026.zip": {
+  "bytes": 25864378,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:46",
+  "sha256": "73243d44106420a83c33f4d569bf9f21ad8be3cbc48d8a4a189c65cbeef9d998",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Brevard%2015%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Broward Preliminary NAL 2026.zip": {
+  "bytes": 50460442,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:11:25",
+  "sha256": "a60bc20f212716fe4d22673d14dc630ebb959ee13c1ed474b7451b36b2c94d9f",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Broward%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Calhoun 17 Preliminary NAL 2026.zip": {
+  "bytes": 1052871,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:31",
+  "sha256": "c19df7aeaeff97d853a2080d965fe36d84859566ebef2145f4f44ec0e5decd86",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Calhoun%2017%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Charlotte 18 Preliminary NAL 2026.zip": {
+  "bytes": 16076450,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:49",
+  "sha256": "8b7da23df5f56c4dcc0b1dcbb4e28416a4f2ed82fc48c12cb3aa3788553ad445",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Charlotte%2018%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Citrus 19 Final NAL 2026.zip": {
+  "bytes": 11517969,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:07:04",
+  "sha256": "f838ce445f451910180b7b6e0a2fce6401adc77de8fd6db970bdbefe5154105f",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026F/Citrus%2019%20Final%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Clay 20 Preliminary NAL 2026.zip": {
+  "bytes": 8111356,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:03:34",
+  "sha256": "4b145ff6a3780d754430419e6cac8fd281ba0c02666e38a7491fb8da7320bc7a",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Clay%2020%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Collier 21 Preliminary NAL 2026.zip": {
+  "bytes": 19586857,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:03:01",
+  "sha256": "9b9557956a2117bef4ecb06f813d84f8f51a98850732667c4305d6bfdfcf78d3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Collier%2021%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Columbia 22 Preliminary NAL 2026.zip": {
+  "bytes": 3119482,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:53",
+  "sha256": "e4fe59eaa4d5be4940241dcb38a0c329adefe5fd92cbba9ef348eb76b65866f7",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Columbia%2022%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Dade 23 Preliminary NAL 2026.zip": {
+  "bytes": 59486889,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:08:47",
+  "sha256": "f82d1c9fd8f6a9048d5b930b859b07b260d7b6acb154c607aebd8dbc5b8a6a69",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Dade%2023%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/DeSoto 24 Preliminary NAL 2026.zip": {
+  "bytes": 1492194,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:02:04",
+  "sha256": "83b7a996ff801dd5ce564c2280115ef998d9d6db9b867610aba5568ac39e6e08",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/DeSoto%2024%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Dixie 25 Preliminary NAL 2026.zip": {
+  "bytes": 1697127,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:15",
+  "sha256": "b1252f15ed46d4527a93da6116e17cd4f51fb224203b4a1d9ac03e8ee630ddbb",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Dixie%2025%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Duval 26 Preliminary NAL 2026.zip": {
+  "bytes": 29080532,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:06:06",
+  "sha256": "4ae67aa7550d9d9051c44f01a52ab335897af4959e9625e9ae1e007d77521691",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Duval%2026%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Escambia 27 Preliminary NAL 2026.zip": {
+  "bytes": 13814543,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:02:19",
+  "sha256": "3fd2816754d1d48a4c680064e04b1174e8d8e702ba833b57d6612ef74d4ce4f6",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Escambia%2027%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Flagler 28 Preliminary NAL 2026.zip": {
+  "bytes": 6772495,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:32",
+  "sha256": "7008acb1a932994334aa3ec89804ede7058584548f6e9ee124bbe9fea653d4c2",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Flagler%2028%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Franklin 29 Preliminary NAL 2026.zip": {
+  "bytes": 1390063,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:05",
+  "sha256": "22381020bd253510ac4c4b5bf7d443e696d6035a6a7a88c7fea8fefe21f9ac18",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Franklin%2029%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Gadsden 30 Preliminary NAL 2026.zip": {
+  "bytes": 2446861,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:07",
+  "sha256": "7cfddea07aa948276982293fa74684a39c1b8ee07621bb0961857564d26690d3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Gadsden%2030%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Gilchrist 31 Preliminary NAL 2026.zip": {
+  "bytes": 1172095,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:18",
+  "sha256": "da1c70d09c534028f28a2974c175d8b1d2881fc75b6e9c99732203406c9af26b",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Gilchrist%2031%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Glades 32 Preliminary NAL 2026.zip": {
+  "bytes": 869249,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:20",
+  "sha256": "980285c1403643fcd5c9bc54340190afa0f563f343b4b8360f2049a33ac999ad",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Glades%2032%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Gulf 33 Preliminary NAL 2026.zip": {
+  "bytes": 1424775,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:31",
+  "sha256": "07221840569def376d9488e70b39c1fc67e958776873d3fa2870ac0eee67d176",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Gulf%2033%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Hamilton 34 Preliminary NAL 2026.zip": {
+  "bytes": 913957,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:14",
+  "sha256": "4749344fcebdfb685fe971d9ab318de082ce93cb4cfd5a282bd8b03ae4c1697e",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Hamilton%2034%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Hardee 35 Preliminary NAL 2026.zip": {
+  "bytes": 1202472,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:12",
+  "sha256": "01ec3ad988bc2db934e4723ff96f946752ba10fee399cd869e9a70bf7f663e26",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Hardee%2035%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Hendry 36 Preliminary NAL 2026.zip": {
+  "bytes": 2532335,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:32",
+  "sha256": "023de5fab1ad0f605768f7c73d7bf268807a9dae5f09546d81b525312125500b",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Hendry%2036%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Hernando 37 Preliminary NAL 2026.zip": {
+  "bytes": 9821527,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:41",
+  "sha256": "69cb219fb243c7719ff3d34fc8d1835868b93e6181f5d6b54f6167e9dd4276db",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Hernando%2037%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Highlands 38 Preliminary NAL 2026.zip": {
+  "bytes": 7501577,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:31",
+  "sha256": "2708bd6fd47913b989231f079e7c10e7027801caddbc4e475bb9ec6ceda443bc",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Highlands%2038%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Hillsborough 39 Preliminary NAL 2026.zip": {
+  "bytes": 40153447,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:06:51",
+  "sha256": "db8952c0c79c4e117a5f461421e5eb0b2d4f94d4765d893b997fbd954ef16f94",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Hillsborough%2039%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Holmes 40 Preliminary NAL 2026.zip": {
+  "bytes": 1254702,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:20",
+  "sha256": "e53edbff652fd6cec4af0c5e18d490eb567d842aad7e60f7834e1f9fe895277a",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Holmes%2040%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Indian River 41 Preliminary NAL 2026.zip": {
+  "bytes": 7329145,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:50",
+  "sha256": "236ec01cd0a431b6060bb5f476c5b664ec265c1ae685a78e4e231cf8cd14e57f",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Indian%20River%2041%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Jackson 42 Preliminary NAL 2026.zip": {
+  "bytes": 3396940,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:49",
+  "sha256": "1d2e84f8c6d6a868d2fced8cc7af7e37c342b0f1a4f3658df0f3fe23a89171ba",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Jackson%2042%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Jefferson 43 Preliminary NAL 2026.zip": {
+  "bytes": 1123484,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:20",
+  "sha256": "caef163cc85837d3093ca2b0aac888e79d33fc27947869c5b16aa56d0769a4e6",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Jefferson%2043%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Lafayette 44 Preliminary NAL 2026.zip": {
+  "bytes": 568801,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:01",
+  "sha256": "5a139f2a64cf8d9a0fcc6375034c46a147a92bde423efa3f47302302f59e1b1c",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Lafayette%2044%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Lake 45 Preliminary NAL 2026.zip": {
+  "bytes": 18297748,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:02",
+  "sha256": "c7bcae9f0f967d457eb927bb1a6b60388b1ad2256275bc16d23a21ddc24f6f23",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Lake%2045%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Lee 46 Preliminary NAL 2026.zip": {
+  "bytes": 43316780,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:09:24",
+  "sha256": "0d2e9f296e4bab0491ed32cb444753e2617c4f5a6b4352a9a2512878dc94a256",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Lee%2046%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Leon 47 Preliminary NAL 2026.zip": {
+  "bytes": 8002773,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:20",
+  "sha256": "94a2f8aa068118cfd98914d6029da49ed9cbe4418a206fd4c8d892bc740cb317",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Leon%2047%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Levy 48 Preliminary NAL 2026.zip": {
+  "bytes": 3332418,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:55",
+  "sha256": "b85ad1bce443e8e34c9b2345ae9a716d6ff958bcdfe128dd98d840bb39c87046",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Levy%2048%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Liberty 49 Preliminary NAL 2026.zip": {
+  "bytes": 466431,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:01",
+  "sha256": "e257029c247d98eb52d1b67f14a6756c48330cb52f2a624fbb40785b76d46957",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Liberty%2049%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Madison 50 Preliminary NAL 2026.zip": {
+  "bytes": 1336178,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:36",
+  "sha256": "41f0d75bc0a6dabcaa6e99845e0e2113b0f8318e8dbdcb80be68671c07855bd2",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Madison%2050%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Manatee 51 Preliminary NAL 2026.zip": {
+  "bytes": 16468447,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:58",
+  "sha256": "5bb68503ea21679637e4b4e0b08a68a816be2e7628f68e2eb672e21163ac25d5",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Manatee%2051%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Marion 52 Preliminary NAL 2026.zip": {
+  "bytes": 20787297,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:35",
+  "sha256": "b144adc6232841ad02055144d3e2a7219a58dcac8aec98d100940a2a6b776248",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Marion%2052%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Martin 53 Preliminary NAL 2026.zip": {
+  "bytes": 6947142,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:02:05",
+  "sha256": "1de84593da9d6bdb980304c8b44288f11db904a85671dafb5eb20c611d3804ea",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Martin%2053%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Monroe 54 Preliminary NAL 2026.zip": {
+  "bytes": 6034513,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:16",
+  "sha256": "d7c2b1d03efc4baef5359650b0dbd75194d878d9ae1a7b6f3753b774a4550b28",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Monroe%2054%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Nassau 55 Preliminary NAL 2026.zip": {
+  "bytes": 4609222,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:51",
+  "sha256": "ded39fa0f0ffe4a2ccd176b36672ee6fe0a976ae572484564efa27ec31d908c0",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Nassau%2055%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Okaloosa 56 Preliminary NAL 2026.zip": {
+  "bytes": 8238264,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:03:54",
+  "sha256": "944124616ca2714283f7536fddf3890770b1ba3e7d511b87d753b54009e6ce5a",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Okaloosa%2056%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Okeechobee 57 Preliminary NAL 2026.zip": {
+  "bytes": 2273592,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:48",
+  "sha256": "01098db3b19a880f592ed086335bf71431dee7045f5d82b1f5d8b43ef44aae88",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Okeechobee%2057%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Orange 58 Preliminary NAL 2026.zip": {
+  "bytes": 35449645,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:06:00",
+  "sha256": "aa5da0448843b8cc801323d6ba1a80e636d1c401b182b0273ca02052e741c13e",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Orange%2058%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Osceola 59 Preliminary NAL 2026.zip": {
+  "bytes": 13996663,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:07",
+  "sha256": "edc1c18257016ac65d6b3cac7cce90e8d945b9b2841d21628a0bc48838b7b787",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Osceola%2059%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Palm Beach 60 Preliminary NAL 2026.zip": {
+  "bytes": 45175604,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:06:43",
+  "sha256": "e6b6cfa8bf0b943f9335479afb63633f01ebdf463ebc228fc4b10f94a95f5959",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Palm%20Beach%2060%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Pasco 61 Preliminary NAL 2026.zip": {
+  "bytes": 24816250,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:08:15",
+  "sha256": "b6b1b3788efc931b9fa794df8b94124de3c13231e977ad1d5e0346f9c8fb9b55",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Pasco%2061%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Pinellas 62 Preliminary NAL 2026.zip": {
+  "bytes": 53587747,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:11:28",
+  "sha256": "a5fa0a1c179f3a143d64caeb3ab19d8f24eb2e53895a34a283e7736f863ca711",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Pinellas%2062%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Polk 63 Preliminary NAL 2026.zip": {
+  "bytes": 29837354,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:07:41",
+  "sha256": "3517c44602428e527af0b33309c7eb1f661c3a32a8d156a05cb70c19f8cffb39",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Polk%2063%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Putnam 64 Preliminary NAL 2026.zip": {
+  "bytes": 7247126,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:05:08",
+  "sha256": "5e5bbe70ce97e28572d4972065c7749ede15d86978f5b9f9800685aec6ffd15d",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Putnam%2064%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Saint Johns 65 Preliminary NAL 2026.zip": {
+  "bytes": 12247535,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:03:51",
+  "sha256": "a8afa5b7ad2fd6d8a8242f5464e5a9fa9a9f8e1f2a517424317f63eae2fbd818",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Saint%20Johns%2065%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Saint Lucie 66 Preliminary NAL 2026.zip": {
+  "bytes": 14063098,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:06:22",
+  "sha256": "d955291afc5337b6d63ab5953b999678b4046bf16563b20f69e60ab736a499ae",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Saint%20Lucie%2066%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Santa Rosa 67 Preliminary NAL 2026.zip": {
+  "bytes": 9501076,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:06:32",
+  "sha256": "456702ba2918841690afa043ec8e8d4e81b37d1cab528740d12898c16d78f5e3",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Santa%20Rosa%2067%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Sarasota 68 Preliminary NAL 2026.zip": {
+  "bytes": 22995443,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:08:11",
+  "sha256": "30741c28b67bc1029d3a9848676ffa54ff7ea4584d7db86fb8e12ea07da42d62",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Sarasota%2068%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Seminole 58 Preliminary NAL 2026.zip": {
+  "bytes": 14420406,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:43",
+  "sha256": "c6a5a112d8b6a2453904823a365450ee255218bfd3bcd9bd303c32d50703f7f9",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Seminole%2058%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Sumter 70 Preliminary NAL 2026.zip": {
+  "bytes": 8453591,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:02:48",
+  "sha256": "b633e9aa291b275cc0510b90d9819a08e2f29340e6e7c479d4a82d82a72fa604",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Sumter%2070%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Suwannee 71 Preliminary NAL 2026.zip": {
+  "bytes": 2923759,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:07",
+  "sha256": "5b3cb6ab28a30af51f350945f030e06fb662eb263fac657b19e3605b494669cd",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Suwannee%2071%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Taylor 72 Preliminary NAL 2026.zip": {
+  "bytes": 1619878,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:12:10",
+  "sha256": "4133b4e48172abc9c0d3e940efe3d75072846116c60e9244ab64455a796ecfb8",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Taylor%2072%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Union 73 Preliminary NAL 2026.zip": {
+  "bytes": 611218,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:00:02",
+  "sha256": "51d93f8ba49de3498688564caf454f2c55f92cbb47f8813670824ed6ea248c17",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Union%2073%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Volusia 74 Preliminary NAL 2026.zip": {
+  "bytes": 23988948,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:00",
+  "sha256": "aa94312f784db9f21b81f8f3c637995c3ead101ada8cd6e37ba85e426ce158cd",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Volusia%2074%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Wakulla 75 Preliminary NAL 2026.zip": {
+  "bytes": 1900303,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:02:13",
+  "sha256": "7d03126987f627ae94eccb37ddbbbb7d5053e01776b82e4cdb9c77d51aa7259f",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Wakulla%2075%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Walton 76 Preliminary NAL 2026.zip": {
+  "bytes": 7097862,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:01:24",
+  "sha256": "d887e28ecdce3ef3ac117907c01dc8d50e6557a9f11699634d1f62f2e8d8c9b6",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Walton%2076%20Preliminary%20NAL%202026.zip"
+ },
+ "nal_2026/raw/Washington 77 Preliminary NAL 2026.zip": {
+  "bytes": 2661951,
+  "in_repository": false,
+  "retrieved": "2026-09-23T21:04:26",
+  "sha256": "64f95e514e59f566a5333319c4463179be81e70cc5f912bc3ff1bb526c0c60fd",
+  "url": "https://floridarevenue.com/property/dataportal/Documents/PTO%20Data%20Portal/Tax%20Roll%20Data%20Files/NAL/2026P/Washington%2077%20Preliminary%20NAL%202026.zip"
+ }
+}

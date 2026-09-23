@@ -1,0 +1,205 @@
+{
+  "counties": {
+    "fields": [
+      {
+        "name": "county",
+        "type": "string",
+        "description": "County name as DOR spells it (Miami-Dade, Saint Johns, Saint Lucie, DeSoto)"
+      },
+      {
+        "name": "year",
+        "type": "integer",
+        "description": "Tax roll year (assessment date January 1 of that year). 2026 is the preliminary roll"
+      },
+      {
+        "name": "homestead_parcels",
+        "type": "integer",
+        "description": "Parcels with NAL field JV_HMSTD (Just Value, Homestead Property) greater than 0. 2026 only"
+      },
+      {
+        "name": "homestead_just_value_total",
+        "type": "integer",
+        "description": "Sum of JV_HMSTD over those parcels, in dollars. 2026 only"
+      },
+      {
+        "name": "homestead_assessed_value_total",
+        "type": "integer",
+        "description": "Sum of AV_HMSTD (Assessed Value, Homestead Property) before exemptions, in dollars. 2026 only"
+      },
+      {
+        "name": "soh_differential_total",
+        "type": "integer",
+        "description": "County Save Our Homes differential (homestead just value minus capped assessed value) as DOR reports it in the Data Book, county_overview.xlsx, sheet Save Our Homes Value History"
+      },
+      {
+        "name": "avg_soh_differential_per_homestead",
+        "type": "integer",
+        "description": "(homestead_just_value_total minus homestead_assessed_value_total) divided by homestead_parcels, all from the NAL. 2026 only"
+      },
+      {
+        "name": "avg_total_millage",
+        "type": "number",
+        "description": "DOR Total Millage Rate for the county (county-wide plus less-than-county-wide levies averaged over the county), from millage_taxes_levied.xlsx. 2022 to 2025"
+      },
+      {
+        "name": "est_avg_annual_tax_saved",
+        "type": "integer",
+        "description": "ESTIMATE. avg_soh_differential_per_homestead x the county's 2025 Total Millage Rate / 1000, in dollars a year. 2026 only"
+      },
+      {
+        "name": "source",
+        "type": "string",
+        "description": "Table, sheet and column for every figure in the row"
+      },
+      {
+        "name": "source_url",
+        "type": "string",
+        "description": "DOR file URLs, separated by ' | '"
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "description": "Roll status, what is blank and why, and the NAL versus Data Book gap for 2026"
+      }
+    ],
+    "primaryKey": [
+      "county",
+      "year"
+    ]
+  },
+  "distribution_2026": {
+    "fields": [
+      {
+        "name": "county",
+        "type": "string",
+        "description": "County name as DOR spells it"
+      },
+      {
+        "name": "nal_file",
+        "type": "string",
+        "description": "The DOR NAL roll file read"
+      },
+      {
+        "name": "roll",
+        "type": "string",
+        "description": "Preliminary or Final (Final for Citrus only)"
+      },
+      {
+        "name": "homestead_parcels",
+        "type": "integer",
+        "description": "Parcels with JV_HMSTD greater than 0"
+      },
+      {
+        "name": "median_soh_differential",
+        "type": "number",
+        "description": "Median of JV_HMSTD minus AV_HMSTD over homestead parcels"
+      },
+      {
+        "name": "p25_soh_differential",
+        "type": "number",
+        "description": "25th percentile of the differential"
+      },
+      {
+        "name": "p75_soh_differential",
+        "type": "number",
+        "description": "75th percentile of the differential"
+      },
+      {
+        "name": "p90_soh_differential",
+        "type": "number",
+        "description": "90th percentile of the differential"
+      },
+      {
+        "name": "p99_soh_differential",
+        "type": "number",
+        "description": "99th percentile of the differential"
+      },
+      {
+        "name": "max_soh_differential",
+        "type": "number",
+        "description": "Largest single-parcel differential, as recorded on the roll"
+      },
+      {
+        "name": "share_with_zero_differential",
+        "type": "number",
+        "description": "Share of homestead parcels whose differential is zero or less"
+      },
+      {
+        "name": "parcels_differential_over_500k",
+        "type": "integer",
+        "description": "Homestead parcels whose differential exceeds the $500,000 portability limit"
+      },
+      {
+        "name": "share_over_500k",
+        "type": "number",
+        "description": "parcels_differential_over_500k divided by homestead_parcels"
+      },
+      {
+        "name": "differential_above_500k_total",
+        "type": "integer",
+        "description": "Sum over those parcels of the differential above $500,000, the part portability cannot carry"
+      },
+      {
+        "name": "median_homestead_just_value",
+        "type": "number",
+        "description": "Median JV_HMSTD"
+      },
+      {
+        "name": "median_homestead_assessed_value",
+        "type": "number",
+        "description": "Median AV_HMSTD"
+      }
+    ],
+    "primaryKey": [
+      "county"
+    ]
+  },
+  "portability_by_county": {
+    "fields": [
+      {
+        "name": "county",
+        "type": "string",
+        "description": "County name as DOR spells it"
+      },
+      {
+        "name": "year",
+        "type": "integer",
+        "description": "Tax roll year"
+      },
+      {
+        "name": "portability_transfers",
+        "type": "integer",
+        "description": "Number of portability transfers DOR reports"
+      },
+      {
+        "name": "portability_value_total",
+        "type": "integer",
+        "description": "Total differential ported, in dollars"
+      },
+      {
+        "name": "avg_value_ported_per_transfer",
+        "type": "integer",
+        "description": "portability_value_total divided by portability_transfers (computed)"
+      },
+      {
+        "name": "source",
+        "type": "string",
+        "description": "Table and sheets"
+      },
+      {
+        "name": "source_url",
+        "type": "string",
+        "description": "DOR file URL"
+      },
+      {
+        "name": "note",
+        "type": "string",
+        "description": "Method notes"
+      }
+    ],
+    "primaryKey": [
+      "county",
+      "year"
+    ]
+  }
+}
